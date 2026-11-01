@@ -73,7 +73,7 @@ Continuously strengthening my analytical and technical skills through hands-on p
 
 ##  Let's Connect!
 
-I'm always interested in connecting with data professionals, learning from new challenges, and exploring opportunities in Data Analytics and Business Intelligence.
+I'm always interested in connecting with data professionals, learning from new challenges, and exploring opportunities in Data Analytics and Business Intelligence. 
 
 - **LinkedIn:** [Add your LinkedIn URL]
 - **Email:** [Add your professional email]
