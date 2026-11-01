@@ -1,5 +1,5 @@
 # Ricardo-Cruz
-# Hi, I'm Ricardo! 👋
+# Hi, I'm Ricardo! 
 
 ### Data Analyst | SQL • Python • Power BI | Business Intelligence & Data Analytics
 
@@ -18,7 +18,7 @@ I'm particularly interested in **Fintech, Financial Services, Technology, and Bu
 - **Spreadsheets:** Excel, Google Sheets
 - **Data Analysis Techniques:** Exploratory Data Analysis (EDA), Data Cleaning, KPI Development, Funnel Analysis, Cohort Analysis, Customer Retention, ROI Analysis, Business Performance Analysis
 
-## 📊 Featured Projects
+##  Featured Projects
 
 ### 1. Marketing Campaign ROI Analysis
 **Tools:** SQL
@@ -58,7 +58,7 @@ I'm particularly interested in **Fintech, Financial Services, Technology, and Bu
 
 ---
 
-## 🎯 Areas of Interest
+##  Areas of Interest
 
 - Financial & Business Analytics
 - Fintech & Financial Services
@@ -67,11 +67,11 @@ I'm particularly interested in **Fintech, Financial Services, Technology, and Bu
 - Marketing Performance & Revenue Optimization
 - Data-Driven Decision Making
 
-## 🌱 Currently Developing
+##  Currently Developing
 
 Continuously strengthening my analytical and technical skills through hands-on projects, with a focus on SQL, Python, Power BI, and business intelligence.
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 
 I'm always interested in connecting with data professionals, learning from new challenges, and exploring opportunities in Data Analytics and Business Intelligence.
 
